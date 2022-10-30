@@ -46,7 +46,7 @@ Megapixels                      : 4.1
 
 Oh man, that license reminds me of something, let's see what our chef has to say.
 
-
+![Screenshot_2022-10-30_02-39-05](https://user-images.githubusercontent.com/64281657/198865985-1aa4d272-28a9-4ec2-b11f-d1251d26b6d7.png)
 
 Yup, yup, intuition did not disappoint me:)
 Have a nice day!
