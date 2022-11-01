@@ -1,4 +1,4 @@
-**Nice Netcat... on PicoCtf by Ne0exe 30.10.2022**
+**Nice Netcat... on PicoCtf by Ne0exe 31.10.2022**
 
 Alright, first of all: what is netcat?
 *Netcat* is scanning and monitoring tool (it is also a simple server) based on TCP/IP communication. It just reads and saves data during network connection thanks to the TCP or UDP.
