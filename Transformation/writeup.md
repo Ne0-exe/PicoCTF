@@ -27,3 +27,4 @@ I've also tried translating it from chinese (idk why) but it was a dead end.
 There you go chef's output:
 
 
+![Screenshot_2022-11-01_01-11-45](https://user-images.githubusercontent.com/64281657/199163724-48e6b128-78ef-4bda-84c3-405735352b5c.png)
