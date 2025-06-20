@@ -1,7 +1,7 @@
 # **Ph4nt0m 1ntrud3r - Writeup**
 
 ### *June 13th 2025*
-### Ludwik Rydzak, Maciej Jędrak
+### Maciej Jędrak, Ludwik Rydzak
 
 #### Platform: PicoCTF
 #### Category: Forensics
